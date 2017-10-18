@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikcro/Constructor-Hangman.git"
+  },
+  "author": "Mike Croft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikcro/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/mikcro/Constructor-Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
